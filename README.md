@@ -85,7 +85,35 @@ Interactive scenario analysis to understand how changes in discount levels can a
 This dashboard converts raw retail data into an interactive decision-support tool.
 
 It enables stakeholders to move from **"What happened?"** to **"Why did it happen?"** and explore potential business scenarios.
+## 🖼️ Dashboard Preview
 
+### Page 1 — Executive Overview
+
+![Urban Mart Executive Overview](images/Screenshot%202026-10-08%20212432.png)
+
+### Page 2 — Sales & Product Analysis
+
+![Urban Mart Sales Analysis](images/Screenshot%202026-10-08%20212449.png)
+
+### Page 3 — Customer Analysis
+
+![Urban Mart Customer Analysis](images/Screenshot%202026-10-08%20212508.png)
+
+### Page 4 — Sales & Profit Trends
+
+![Urban Mart Sales Profit Trends](images/Screenshot%202026-10-08%20212534.png)
+
+### Page 5 — Discount & Scenario Analysis
+
+![Urban Mart Discount Scenario](images/Screenshot%202026-10-08%20212549.png)
+
+### Page 6 — Management Dashboard
+
+![Urban Mart Management Dashboard](images/Screenshot%202026-10-08%20212604.png)
+
+### Page 7 — Customer Detail
+
+![Urban Mart Customer Detail](images/Screenshot%202026-10-08%20212616.png)
 ## 👩‍💻 About the Analyst
 
 **Sadaf Zafar**
