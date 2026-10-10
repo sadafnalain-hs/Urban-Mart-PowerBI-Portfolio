@@ -133,3 +133,8 @@ Built using Power BI to demonstrate practical skills in:
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository.
+## 📄 Business Requirements
+
+The Business Requirements Document outlines the project objectives, business problem, key performance indicators, dashboard requirements, and expected business benefits.
+
+📥 **[View Business Requirements Document (PDF)](Urban_Mart_Business_Requirements.pdf)**
