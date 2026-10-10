@@ -137,4 +137,36 @@ Built using Power BI to demonstrate practical skills in:
 
 The Business Requirements Document outlines the project objectives, business problem, key performance indicators, dashboard requirements, and expected business benefits.
 
-📥 **[View Business Requirements Document (PDF)](Urban_Mart_Business_Requirements.pdf)**
+📥 **[View Business Requirements Document (PDF)](Urban_Mart_Business_Requirements.pdf)**## 🛠️ Tools & Skills Demonstrated
+
+### Tools
+
+* Microsoft Power BI Desktop
+* Power Query
+* DAX
+* GitHub
+
+### Data Analytics Skills
+
+* Data Cleaning and Transformation
+* Data Modelling and Relationships
+* KPI Development
+* Sales and Profitability Analysis
+* Customer and Product Analysis
+* Time-Based Trend Analysis
+* Interactive Dashboard Design
+* Business Insights and Reporting
+
+### Power BI Features
+
+* Interactive Filters and Slicers
+* KPI Cards
+* Monthly Sales and Profit Trends
+* Customer Detail Analysis
+* Discount Scenario Analysis
+* Multi-Page Report Design
+
+### Project Objective
+
+To demonstrate practical data analytics skills by transforming retail sales data into an interactive Power BI reporting solution that supports business performance analysis.
+
